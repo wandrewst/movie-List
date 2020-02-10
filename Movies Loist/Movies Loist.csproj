@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Movies_Loist</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Grand Circus\Desktop\Lab_11\MovieList.cs" Link="MovieList.cs" />
+    <Compile Include="C:\Users\Grand Circus\Desktop\Lab_11\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>

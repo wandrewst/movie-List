@@ -1,0 +1,11 @@
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\obj\Debug\netcoreapp2.1\Movies Loist.csprojAssemblyReference.cache
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\obj\Debug\netcoreapp2.1\Movies Loist.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\obj\Debug\netcoreapp2.1\Movies Loist.AssemblyInfoInputs.cache
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\obj\Debug\netcoreapp2.1\Movies Loist.AssemblyInfo.cs
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\bin\Debug\netcoreapp2.1\Movies Loist.deps.json
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\bin\Debug\netcoreapp2.1\Movies Loist.runtimeconfig.json
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\bin\Debug\netcoreapp2.1\Movies Loist.runtimeconfig.dev.json
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\bin\Debug\netcoreapp2.1\Movies Loist.dll
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\bin\Debug\netcoreapp2.1\Movies Loist.pdb
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\obj\Debug\netcoreapp2.1\Movies Loist.dll
+C:\Users\Grand Circus\source\repos\Movies Loist\Movies Loist\obj\Debug\netcoreapp2.1\Movies Loist.pdb
